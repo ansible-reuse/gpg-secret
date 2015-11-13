@@ -1,0 +1,2 @@
+# Made com (ansible gpg vault keys) <ansible@made.com>
+gpg_passphrase: potato
